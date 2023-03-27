@@ -4,13 +4,13 @@ I'm a tech enthusiast and software developer currently working on sharpening my 
 
 ### 🌱 Currently Learning...
 
-C
-C++
+C,
+C++,
 Typescript
 
 ### 🔭 Working On...
 
-Codam Coding College (https://codam.nl),
+Businesslab (https://zakelijk.thephonelab.nl),
 De Ruiterstok (https://deruiterstok.nl)
 
 ### 👯 Looking to Collaborate...
