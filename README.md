@@ -10,8 +10,8 @@ Typescript
 
 ### 🔭 Working On...
 
-Businesslab (https://zakelijk.thephonelab.nl),
-De Ruiterstok (https://deruiterstok.nl)
+- Businesslab (https://zakelijk.thephonelab.nl),
+- De Ruiterstok (https://deruiterstok.nl)
 
 ### 👯 Looking to Collaborate...
 
