@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mees</h1>
 <h3 align="center">A developer located in The Netherlands working on Codam Coding College and a bunch of side projects</h3>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=lithiumox&label=Profile%20views&color=0e75b6&style=flat" alt="lithiumox" /> </p>
 
 - 🔭 I’m currently working on [Codam](https://github.com/LithiumOx/Codam)
 
