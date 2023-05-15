@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://meesdekker.com](https://meesdekker.com)
 
-- 💬 Ask me about **SvelteKit, Databases,**
+- 💬 Ask me about **SvelteKit, Databases & Basically anything tech related!**
 
 - 📫 How to reach me **me@meesdekker.xyz**
 
