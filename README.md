@@ -2,6 +2,7 @@
 <h3 align="center">A developer located in The Netherlands working on Codam Coding College and a bunch of side projects</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lithiumox&label=Profile%20views&color=0e75b6&style=flat" alt="lithiumox" /> </p>
+<a align="center" href="https://github.com/lithiumox-codam"><img src="https://avatars.githubusercontent.com/u/136644405?s=200&v=4" alt="lithiumox-codam"/></a> 
 
 - 🔭 I’m currently working on [Codam](https://github.com/LithiumOx/Codam)
 
