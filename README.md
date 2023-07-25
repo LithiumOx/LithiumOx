@@ -13,7 +13,7 @@
 - 👨‍💻 All of my projects are available at <a href="https://meesdekker.com">meesdekker.com</a>
 </p>
 <p align="center">
-- 💬 Ask me about **SvelteKit, Databases & Basically anything tech related!**
+- 💬 Ask me about SvelteKit, Databases & Basically anything tech related!
 </p>
 <p align="center">
 - 📫 How to reach me **me@meesdekker.xyz**
