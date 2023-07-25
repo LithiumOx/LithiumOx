@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on <a href="https://github.com/lithiumox-codam">Codam</a>
 </p>
 <p align="center">
-- 🌱 I’m currently learning **C, C++ & TypeScript**
+- 🌱 I’m currently learning C, C++ & TypeScript
 </p>
 <p align="center">
 - 👨‍💻 All of my projects are available at <a href="https://meesdekker.com">meesdekker.com</a>
@@ -16,7 +16,7 @@
 - 💬 Ask me about SvelteKit, Databases & Basically anything tech related!
 </p>
 <p align="center">
-- 📫 How to reach me **me@meesdekker.xyz**
+- 📫 How to reach me <a href="mailto:me@meesdekker.xyz">me@meesdekker.xyz</a>
 </p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
