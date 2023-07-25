@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **C, C++ & TypeScript**
 
-- 👯 I’m looking to collaborate on [Canvas.edu](https://github.com/pixelcorp-nl/canvas.edu)
-
 - 👨‍💻 All of my projects are available at [https://meesdekker.com](https://meesdekker.com)
 
 - 💬 Ask me about **SvelteKit, Databases & Basically anything tech related!**
