@@ -14,15 +14,7 @@
 </p>
 <p align="center">___</p>
 <p align="center">
-👨‍💻 All of my projects are available at: <br/><br/> <a href="https://meesdekker.com">meesdekker.com</a>
-</p>
-<p align="center">___</p>
-<p align="center">
 💬 Ask me about: <br/><br/> SvelteKit, Databases & Basically anything tech related!
-</p>
-<p align="center">___</p>
-<p align="center">
-📫 How to reach me: <br/><br/> <a href="mailto:me@meesdekker.xyz">me@meesdekker.xyz</a>
 </p>
 <br/><br/>
 <h3 align="center">Connect with me:</h3>
